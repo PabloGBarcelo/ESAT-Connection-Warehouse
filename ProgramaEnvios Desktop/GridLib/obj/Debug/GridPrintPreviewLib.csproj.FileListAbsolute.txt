@@ -1,0 +1,5 @@
+C:\RFID\GridPrintPreviewSolution\GridLib\bin\Debug\GridLib.dll
+C:\RFID\GridPrintPreviewSolution\GridLib\bin\Debug\GridLib.pdb
+C:\RFID\GridPrintPreviewSolution\GridLib\obj\Debug\GridPrintPreviewLib.csprojResolveAssemblyReference.cache
+C:\RFID\GridPrintPreviewSolution\GridLib\obj\Debug\GridLib.dll
+C:\RFID\GridPrintPreviewSolution\GridLib\obj\Debug\GridLib.pdb

@@ -1,0 +1,10 @@
+D:\Project\Luo\R2000Project\UHFDemo\Reader\bin\x86\Release\Reader.dll
+D:\Project\Luo\R2000Project\UHFDemo\Reader\bin\x86\Release\Reader.pdb
+D:\Project\Luo\R2000Project\UHFDemo\Reader\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Project\Luo\R2000Project\UHFDemo\Reader\obj\x86\Release\Reader.dll
+D:\Project\Luo\R2000Project\UHFDemo\Reader\obj\x86\Release\Reader.pdb
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\Reader\bin\x86\Release\Reader.dll
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\Reader\bin\x86\Release\Reader.pdb
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\Reader\obj\x86\Release\Reader.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\Reader\obj\x86\Release\Reader.dll
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\Reader\obj\x86\Release\Reader.pdb

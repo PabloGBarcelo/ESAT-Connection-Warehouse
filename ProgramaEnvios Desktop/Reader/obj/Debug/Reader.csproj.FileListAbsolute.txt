@@ -1,0 +1,15 @@
+D:\Project\Luo\R2000Project\UHFDemo\Reader\bin\Debug\Reader.dll
+D:\Project\Luo\R2000Project\UHFDemo\Reader\bin\Debug\Reader.pdb
+D:\Project\Luo\R2000Project\UHFDemo\Reader\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Luo\R2000Project\UHFDemo\Reader\obj\Debug\Reader.dll
+D:\Project\Luo\R2000Project\UHFDemo\Reader\obj\Debug\Reader.pdb
+C:\RFID\YR9010 desktop uhf rfid reader\UHFDemo_v3.62_eng_source\UHFDemo_v3.62_eng\Reader\bin\Debug\Reader.dll
+C:\RFID\YR9010 desktop uhf rfid reader\UHFDemo_v3.62_eng_source\UHFDemo_v3.62_eng\Reader\bin\Debug\Reader.pdb
+C:\RFID\YR9010 desktop uhf rfid reader\UHFDemo_v3.62_eng_source\UHFDemo_v3.62_eng\Reader\obj\Debug\Reader.csprojResolveAssemblyReference.cache
+C:\RFID\YR9010 desktop uhf rfid reader\UHFDemo_v3.62_eng_source\UHFDemo_v3.62_eng\Reader\obj\Debug\Reader.dll
+C:\RFID\YR9010 desktop uhf rfid reader\UHFDemo_v3.62_eng_source\UHFDemo_v3.62_eng\Reader\obj\Debug\Reader.pdb
+C:\RFID\ProgramaEnvios\Reader\bin\Debug\Reader.dll
+C:\RFID\ProgramaEnvios\Reader\bin\Debug\Reader.pdb
+C:\RFID\ProgramaEnvios\Reader\obj\Debug\Reader.csprojResolveAssemblyReference.cache
+C:\RFID\ProgramaEnvios\Reader\obj\Debug\Reader.dll
+C:\RFID\ProgramaEnvios\Reader\obj\Debug\Reader.pdb

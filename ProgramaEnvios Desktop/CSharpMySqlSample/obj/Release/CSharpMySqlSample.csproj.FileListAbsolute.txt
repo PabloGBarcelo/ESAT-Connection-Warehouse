@@ -1,0 +1,10 @@
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CSharpMySqlSample\obj\Release\CSharpMySqlSample.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CSharpMySqlSample\obj\Release\CSharpMySqlSample.Form1.resources
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CSharpMySqlSample\obj\Release\CSharpMySqlSample.Form2.resources
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CSharpMySqlSample\obj\Release\CSharpMySqlSample.Form3.resources
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CSharpMySqlSample\obj\Release\CSharpMySqlSample.frmMySqlSample.resources
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CSharpMySqlSample\obj\Release\CSharpMySqlSample.Informe.resources
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CSharpMySqlSample\obj\Release\CSharpMySqlSample.insertaArticulosSueltos.resources
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CSharpMySqlSample\obj\Release\CSharpMySqlSample.Properties.Resources.resources
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CSharpMySqlSample\obj\Release\CSharpMySqlSample.rfidCheckArticles.resources
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CSharpMySqlSample\obj\Release\CSharpMySqlSample.csproj.GenerateResource.Cache

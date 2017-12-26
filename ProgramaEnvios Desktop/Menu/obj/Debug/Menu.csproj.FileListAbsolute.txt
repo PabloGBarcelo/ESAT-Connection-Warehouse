@@ -1,0 +1,5 @@
+C:\Users\NBlack\Desktop\Nube\Programacion\ProgramaEnvios\Menu\bin\Debug\Menu.exe.config
+C:\Users\NBlack\Desktop\Nube\Programacion\ProgramaEnvios\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\NBlack\Desktop\Nube\Programacion\ProgramaEnvios\Menu\obj\Debug\CSharpMySqlSample.Form1.resources
+C:\Users\NBlack\Desktop\Nube\Programacion\ProgramaEnvios\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\NBlack\Desktop\Nube\Programacion\ProgramaEnvios\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+D:\Project\Demo\MyControlLibrary\CustomControl\bin\Debug\CustomControl.dll
+D:\Project\Demo\MyControlLibrary\CustomControl\bin\Debug\CustomControl.pdb
+D:\Project\Demo\MyControlLibrary\CustomControl\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Demo\MyControlLibrary\CustomControl\obj\Debug\CustomControl.dll
+D:\Project\Demo\MyControlLibrary\CustomControl\obj\Debug\CustomControl.pdb
+D:\Project\Demo\MyControlLibrary\CustomControl\obj\Debug\CustomControl.IpAddressTextBox.resources
+D:\Project\Demo\MyControlLibrary\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\Project\Luo\R2000Project\UHFDemo\CustomControl\bin\Debug\CustomControl.dll
+D:\Project\Luo\R2000Project\UHFDemo\CustomControl\bin\Debug\CustomControl.pdb
+D:\Project\Luo\R2000Project\UHFDemo\CustomControl\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Luo\R2000Project\UHFDemo\CustomControl\obj\Debug\CustomControl.IpAddressTextBox.resources
+D:\Project\Luo\R2000Project\UHFDemo\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+D:\Project\Luo\R2000Project\UHFDemo\CustomControl\obj\Debug\CustomControl.dll
+D:\Project\Luo\R2000Project\UHFDemo\CustomControl\obj\Debug\CustomControl.pdb
+C:\RFID\YR9010 desktop uhf rfid reader\UHFDemo_v3.62_eng_source\UHFDemo_v3.62_eng\CustomControl\bin\Debug\CustomControl.dll
+C:\RFID\YR9010 desktop uhf rfid reader\UHFDemo_v3.62_eng_source\UHFDemo_v3.62_eng\CustomControl\bin\Debug\CustomControl.pdb
+C:\RFID\YR9010 desktop uhf rfid reader\UHFDemo_v3.62_eng_source\UHFDemo_v3.62_eng\CustomControl\obj\Debug\CustomControl.csprojResolveAssemblyReference.cache
+C:\RFID\YR9010 desktop uhf rfid reader\UHFDemo_v3.62_eng_source\UHFDemo_v3.62_eng\CustomControl\obj\Debug\CustomControl.IpAddressTextBox.resources
+C:\RFID\YR9010 desktop uhf rfid reader\UHFDemo_v3.62_eng_source\UHFDemo_v3.62_eng\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+C:\RFID\YR9010 desktop uhf rfid reader\UHFDemo_v3.62_eng_source\UHFDemo_v3.62_eng\CustomControl\obj\Debug\CustomControl.dll
+C:\RFID\YR9010 desktop uhf rfid reader\UHFDemo_v3.62_eng_source\UHFDemo_v3.62_eng\CustomControl\obj\Debug\CustomControl.pdb

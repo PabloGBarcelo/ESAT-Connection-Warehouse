@@ -1,0 +1,6 @@
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CustomControl\bin\Release\CustomControl.dll
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CustomControl\bin\Release\CustomControl.pdb
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CustomControl\obj\Release\CustomControl.IpAddressTextBox.resources
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CustomControl\obj\Release\CustomControl.csproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CustomControl\obj\Release\CustomControl.dll
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\CustomControl\obj\Release\CustomControl.pdb

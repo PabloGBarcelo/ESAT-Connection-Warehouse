@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="satsqlDataSet" targetNamespace="http://tempuri.org/satsqlDataSet.xsd" xmlns:mstns="http://tempuri.org/satsqlDataSet.xsd" xmlns="http://tempuri.org/satsqlDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="satsqlInforme" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="satsqlInforme (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.CSharpMySqlSample.Properties.Settings.GlobalReference.Default.satsqlInforme" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="proxPedidosResumenTableAdapter" GeneratorDataComponentClassName="proxPedidosResumenTableAdapter" Name="proxPedidosResumen" UserDataComponentName="proxPedidosResumenTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="satsqlInforme (Settings)" DbObjectName="satsql.proxPedidosResumen" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `idPedidoImport`, `referencia`, `cantidad`, `precio` FROM `proxPedidosResumen`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="satsqlDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="satsqlDataSet" msprop:Generator_UserDSName="satsqlDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="proxPedidosResumen" msprop:Generator_TableClassName="proxPedidosResumenDataTable" msprop:Generator_TableVarName="tableproxPedidosResumen" msprop:Generator_TablePropName="proxPedidosResumen" msprop:Generator_RowDeletingName="proxPedidosResumenRowDeleting" msprop:Generator_RowChangingName="proxPedidosResumenRowChanging" msprop:Generator_RowEvHandlerName="proxPedidosResumenRowChangeEventHandler" msprop:Generator_RowDeletedName="proxPedidosResumenRowDeleted" msprop:Generator_UserTableName="proxPedidosResumen" msprop:Generator_RowChangedName="proxPedidosResumenRowChanged" msprop:Generator_RowEvArgName="proxPedidosResumenRowChangeEvent" msprop:Generator_RowClassName="proxPedidosResumenRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

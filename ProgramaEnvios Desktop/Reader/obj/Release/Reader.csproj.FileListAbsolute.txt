@@ -1,0 +1,4 @@
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\Reader\bin\Release\Reader.dll
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\Reader\bin\Release\Reader.pdb
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\Reader\obj\Release\Reader.dll
+C:\Users\Pablo\Desktop\CloudStation\Programacion\ProgramaEnvios\Reader\obj\Release\Reader.pdb
